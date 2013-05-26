@@ -13,6 +13,9 @@
     "request": "2.16.2",
     "mocha": "~1.9"
   },
+  "peerDependencies": {
+    "mocha": "~1.9"
+  },
   "devDependencies": {
     "mockery": "~1.4.0",
     "chai": "~1.5.0",
