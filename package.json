@@ -7,11 +7,11 @@
     "mocha",
     "reporter"
   ],
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "./lib/index.js",
   "dependencies": {
     "request": "2.16.2",
-    "mocha": "~1.8"
+    "mocha": "~1.9"
   },
   "devDependencies": {
     "mockery": "~1.4.0",
@@ -19,6 +19,6 @@
     "chai-spies": "~0.5.1"
   },
   "engines": {
-    "node": "~0.6"
+    "node": ">0.6"
   }
 }
