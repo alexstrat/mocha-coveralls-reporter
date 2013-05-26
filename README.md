@@ -1,4 +1,4 @@
-# Coverals reporter for Mocha
+# Coveralls reporter for Mocha
 
 [coveralls.io](coveralls.io)
 
