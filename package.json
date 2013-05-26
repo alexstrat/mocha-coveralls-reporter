@@ -9,6 +9,10 @@
   ],
   "version": "0.0.5",
   "main": "./lib/index.js",
+  "repository": {
+    "type" : "git",
+    "url" : "http://github.com/alexstrat/mocha-coveralls-reporter.git"
+  },
   "dependencies": {
     "request": "2.16.2",
     "mocha": "~1.9"
