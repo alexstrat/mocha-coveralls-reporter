@@ -7,7 +7,7 @@
     "mocha",
     "reporter"
   ],
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "./lib/index.js",
   "dependencies": {
     "request": "2.16.2",
